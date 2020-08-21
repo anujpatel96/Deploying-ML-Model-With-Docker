@@ -1,4 +1,4 @@
-# Deplyoying-ML-Model-With-Docker
+# Deploying-ML-Model-With-Docker
 The primary purpose behind building this project was to deploy my Machine Learning model with Docker. The Docker containers lend themselves to Continuous Integration/Continuous Deployment (CI/CD) which helps to integrate code into a shared repository early and often, and then to deploy the code quickly and efficiently. This project can be divided in three parts.
 1) Data Collection and Model Building
 2) Deploying model to Flask App 
